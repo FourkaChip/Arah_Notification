@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/44b752a7-6f65-423d-8ae8-8b43afc8a40b" style="height: 1em; vertical-align: middle;"> Arah.
 
-<!-- ![_배너 (1)](https://github.com/user-attachments/assets/1bde1331-ba9f-41c7-84b4-a5a8911dfdc4) -->
+![_배너 (1)](https://github.com/user-attachments/assets/e0f724d4-e3d8-4b49-9510-ce1e8ae029cb)
 
 
 ## 🌠 서비스 소개 🌠
@@ -239,7 +239,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto;">
     <tr>
         <td colspan="2" align="center" style="padding: 10px;">
-            <img src="" alt="시스템 아키텍처" style="width: 90%; max-width: 900px;">
+            <img src="https://github.com/user-attachments/assets/f22a8ab8-fb35-4011-b107-b6ea102f7945" alt="시스템 아키텍처" style="width: 90%; max-width: 900px;">
         </td>
     </tr>
     <tr>
@@ -249,26 +249,10 @@
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
-            <img src="" alt="K8s 논리 아키텍처" style="width: 500px; max-width: 500px;">
+            <img src="https://github.com/user-attachments/assets/8929ca48-be0b-440c-819c-9c93761925fd" alt="DB 아키텍처" style="width: 500px; max-width: 500px;">
         </td>
         <td align="center" style="padding: 10px;">
-            <img src="" alt="K8s 물리 아키텍처" style="width: 500px; max-width: 500px;">
-        </td>
-    </tr>
-    <tr>
-        <td align="center" style="padding: 10px;">
-            <strong>K8s 논리 아키텍처</strong>
-        </td>
-        <td align="center" style="padding: 10px;">
-            <strong>K8s 물리 아키텍처</strong>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" style="padding: 10px;">
-            <img src="" alt="DB 아키텍처" style="width: 500px; max-width: 500px;">
-        </td>
-        <td align="center" style="padding: 10px;">
-            <img src="" alt="Redis 아키텍처" style="width: 500px; max-width: 500px;">
+            <img src="https://github.com/user-attachments/assets/ecab671f-ed64-471c-a736-3bccff5962c6" alt="Redis 아키텍처" style="width: 500px; max-width: 500px;">
         </td>
     </tr>
     <tr>
@@ -281,10 +265,10 @@
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
-            <img src="" alt="시스템 모니터링 아키텍처" style="width: 500px; max-width: 500px;">
+            <img src="https://github.com/user-attachments/assets/48061eb7-71f3-4680-90f0-1b66735693aa" alt="시스템 모니터링 아키텍처" style="width: 500px; max-width: 500px;">
         </td>
         <td align="center" style="padding: 10px;">
-            <img src="" alt="로깅 아키텍처<" style="width: 500px; max-width: 500px;">
+            <img src="https://github.com/user-attachments/assets/6ab511ab-22e9-4977-b642-beae7d8ae972" alt="로깅 아키텍처<" style="width: 500px; max-width: 500px;">
         </td>
     </tr>
     <tr>
@@ -297,10 +281,10 @@
     </tr>
     <tr>
         <td align="center" style="padding: 10px;">
-            <img src="" alt="AI 아키텍처" style="width: 500px; max-width: 500px;">
+            <img src="https://github.com/user-attachments/assets/dff4c5b1-4e9d-49ae-82be-b1508a7d0f38" alt="AI 아키텍처" style="width: 500px; max-width: 500px;">
         </td>
         <td align="center" style="padding: 10px;">
-            <img src="" alt="배포 파이프라인" style="width: 500px; max-width: 500px;">
+            <img src="https://github.com/user-attachments/assets/9ccb88c9-0132-47d0-879c-0ae45d05e789" alt="배포 파이프라인" style="width: 500px; max-width: 500px;">
         </td>
     </tr>
     <tr>
