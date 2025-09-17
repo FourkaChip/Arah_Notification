@@ -100,7 +100,7 @@
     <td align="center"><img src="https://github.com/dukesugar.png" width="160"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/dyk-im">윤지석</td>
+    <td align="center"><a href="https://github.com/yoonjiseok">윤지석</td>
     <td align="center"><a href="https://github.com/G9bonwook">구본욱</td>
     <td align="center"><a href="https://github.com/KwonHalim">권하림</td>
     <td align="center"><a href="https://github.com/dukesugar">이재모</td>
