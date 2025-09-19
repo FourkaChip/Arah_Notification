@@ -239,7 +239,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto;">
     <tr>
         <td colspan="2" align="center" style="padding: 10px;">
-            <img src="https://github.com/user-attachments/assets/85fda2c2-79d2-4208-9cfc-4f52243381f2" alt="시스템 아키텍처" style="width: 90%; max-width: 900px;">
+            <img src="https://github.com/user-attachments/assets/2d842143-6d74-4935-aa50-256cf0bffc75" alt="시스템 아키텍처" style="width: 90%; max-width: 900px;">
         </td>
     </tr>
     <tr>
