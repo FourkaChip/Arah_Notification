@@ -333,11 +333,11 @@
 
 ### Infra
 ![Kakao Cloud](https://img.shields.io/badge/Kakao%20Cloud-FFCD00?style=flat&logoColor=black)
-![KC Load Balancer](https://img.shields.io/badge/LB-FFCD00?style=flat&logoColor=black)
+![KC LB](https://img.shields.io/badge/KC-LB-FFCD00?style=flat&logoColor=black)
 ![KC VM](https://img.shields.io/badge/KC_VM-FEE500?style=flat&logo=kakao&logoColor=black)
 ![KC CR](https://img.shields.io/badge/KC_CR-FEE500?style=flat&logo=kakao&logoColor=black)
-![KC Obj Stroage](https://img.shields.io/badge/KC_Obj_Stroage-FEE500?style=flat&logo=kakao&logoColor=black)
-![KC DNS](https://img.shields.io/badge/KC_DNS-FEE500?style=flat&logo=kakao&logoColor=black)
+![KC Obj Stroage](https://img.shields.io/badge/KC_Obj_Storage-FEE500?style=flat&logo=kakao&logoColor=black)
+<!-- ![KC DNS](https://img.shields.io/badge/KC_DNS-FEE500?style=flat&logo=kakao&logoColor=black) -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
